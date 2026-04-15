@@ -11,7 +11,7 @@ This repository includes a **reproducible implementation** of the proposed frame
 
 ## Additional Experimental Results
 
-The appendix results omitted from the paper due to page limitations are provided here.
+Additional results, not included in the main paper due to page limitations, are provided in this appendix.
 
 ### Reliability of Predictive Models
 
