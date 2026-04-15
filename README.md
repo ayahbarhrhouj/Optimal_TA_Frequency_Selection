@@ -4,11 +4,9 @@
 
 This repository contains the code, experimental setup, and supplementary analyses for our research work on **explainable temporal aggregation frequency selection in multivariate time series**.
 
-The proposed framework addresses the challenge of choosing an appropriate temporal aggregation frequency, a key preprocessing step that strongly affects both predictive performance and model reliability. It combines supervised learning with SHAP-based analysis and integrates two complementary criteria: coherence, which evaluates the consistency of feature attributions within groups of related variables, and sensitivity, which measures the stability of these attributions under small small changes in temporal resolution.
+The proposed framework addresses the challenge of identifying an appropriate temporal aggregation frequency, a key preprocessing step that strongly affects both predictive performance and model reliability. It combines supervised learning with SHAP-based analysis and integrates two complementary criteria: coherence, which evaluates the consistency of feature attributions within groups of related variables, and sensitivity, which measures the stability of these attributions under small small changes in temporal resolution.
 
 These criteria are combined into a unified reliability cost function, whose minimization enables the automatic selection of an aggregation frequency that balances interpretability and robustness.
-
-This repository provides a reproducible implementation of the framework, experiments on eight real-world maritime fuel-consumption datasets, and supplementary results extending the analyses reported in the paper.
 
 ## Additional Experimental Results
 
