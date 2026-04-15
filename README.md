@@ -13,7 +13,7 @@ This repository includes a **reproducible implementation** of the proposed frame
 
 Additional results, not included in the main paper due to page limitations, are provided in this appendix.
 
-### Reliability of Predictive Models
+### Reliability of Predictive Models (continued from Sec. 5.1.2)
 
 For SHIP 3 (Figure G.1), "speed" remained the dominant predictor across all TA frequencies. However, at the 10-minute and 20-minute frequencies, where the highest R² scores were achieved (0.937 and 0.935, respectively), the models relied on entirely different features. For instance, "air_pressure" contributed marginally (0.38) at 10 minutes but dropped to 0.03 at other frequencies, while variables like "distance" and "pressure_compression" appeared and disappeared inconsistently.
 
