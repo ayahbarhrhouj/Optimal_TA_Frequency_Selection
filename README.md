@@ -1,4 +1,4 @@
-# Optimal_TA_Frequency_Selection
+# Optimal TA Frequency Selection
 
 ## Overview
 
